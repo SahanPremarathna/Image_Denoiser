@@ -1,0 +1,1 @@
+To run this, simply install OpenCV (pip install opencv-python), place the script in the same folder as your image, and execute it to generate the cleaned file.
